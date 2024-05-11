@@ -33,7 +33,7 @@
     header {
         width: calc(100% + 20px);
         height: 106px;
-        background-color: red;
+        background-color: #DDF1F4;
         display: flex;
         justify-content: space-between;
         align-items: center;
