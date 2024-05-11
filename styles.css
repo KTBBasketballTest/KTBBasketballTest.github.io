@@ -32,8 +32,8 @@
     
     header {
         width: calc(100% + 20px);
-        height: 126px;
-        background-color: #DDF1F4;
+        height: 106px;
+        background-color: red;
         display: flex;
         justify-content: space-between;
         align-items: center;
