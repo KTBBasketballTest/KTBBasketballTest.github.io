@@ -259,6 +259,11 @@
     .header-breit {
         display: none;
     }
+
+    .kontakt-header {
+        width: 80vw;
+        background-color: red;
+    }
     
     header {
         width: calc(100% + 20px);
