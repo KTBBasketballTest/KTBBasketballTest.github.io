@@ -1796,6 +1796,38 @@
         font-size: 1.2rem;
     }
 
+    .home-section-2 > a > div {
+        background: linear-gradient(
+            60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+        )var(--x, 0)/ 200%;
+        width: 50vw;
+        padding-top: 15px;
+        height: 60px;
+        margin: 70px auto 0 auto;
+        text-align: center;
+        border: 2px solid var(--color-2);
+        color: var(--color-2);
+        font-size: 1.3rem;
+        transition: 0.5s;
+        box-shadow: 10px 10px 5px var(--color-5);
+    }
+
+    .home-section-3 > a > div {
+        background: linear-gradient(
+            60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+        )var(--x, 0)/ 200%;
+        width: 50vw;
+        padding-top: 15px;
+        height: 60px;
+        margin: 70px auto 0 auto;
+        text-align: center;
+        border: 2px solid var(--color-2);
+        color: var(--color-2);
+        font-size: 1.3rem;
+        transition: 0.5s;
+        box-shadow: 10px 10px 5px var(--color-5);
+    }
+
 }
 
 @media only screen and (min-width: 600px) {
@@ -1851,6 +1883,40 @@
         font-size: 1.2rem;
     }
 
+    .home-section-2 > a > div {
+        background: linear-gradient(
+            60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+        )var(--x, 0)/ 200%;
+        width: 20%;
+        min-width: 250px;
+        padding-top: 15px;
+        height: 60px;
+        margin: 70px auto 0 auto;
+        text-align: center;
+        border: 2px solid var(--color-2);
+        color: var(--color-2);
+        font-size: 1.3rem;
+        transition: 0.5s;
+        box-shadow: 10px 10px 5px var(--color-5);
+    }
+
+    .home-section-3 > a > div {
+        background: linear-gradient(
+            60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+        )var(--x, 0)/ 200%;
+        width: 20%;
+        min-width: 250px;
+        padding-top: 15px;
+        height: 60px;
+        margin: 70px auto 0 auto;
+        text-align: center;
+        border: 2px solid var(--color-2);
+        color: var(--color-2);
+        font-size: 1.3rem;
+        transition: 0.5s;
+        box-shadow: 10px 10px 5px var(--color-5);
+    }
+
 }
 
 .home-section-2 {
@@ -1859,23 +1925,6 @@
     width: 100%;
     padding: 100px;
     border-top: 2px solid var(--color-2);
-}
-
-.home-section-2 > a > div {
-    background: linear-gradient(
-        60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
-    )var(--x, 0)/ 200%;
-    width: 20%;
-    min-width: 250px;
-    padding-top: 15px;
-    height: 60px;
-    margin: 70px auto 0 auto;
-    text-align: center;
-    border: 2px solid var(--color-2);
-    color: var(--color-2);
-    font-size: 1.3rem;
-    transition: 0.5s;
-    box-shadow: 10px 10px 5px var(--color-5);
 }
 
 .home-section-2 > a > div:hover {
@@ -1895,23 +1944,6 @@
     text-align: center;
     line-height: 30px;
     font-size: 1.2rem;
-}
-
-.home-section-3 > a > div {
-    background: linear-gradient(
-        60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
-    )var(--x, 0)/ 200%;
-    width: 20%;
-    min-width: 250px;
-    padding-top: 15px;
-    height: 60px;
-    margin: 70px auto 0 auto;
-    text-align: center;
-    border: 2px solid var(--color-2);
-    color: var(--color-2);
-    font-size: 1.3rem;
-    transition: 0.5s;
-    box-shadow: 10px 10px 5px var(--color-5);
 }
 
 .home-section-3 > a > div:hover {
