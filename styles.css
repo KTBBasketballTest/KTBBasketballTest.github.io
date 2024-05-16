@@ -2457,7 +2457,7 @@
         display: block;
     }
 
-    .verein-section-3a:target > a > div > img {
+    .verein-section-3a:target > div > a > img {
         border: 2px solid var(--color-2);
         height: 350px;
         grid-area: 1 / 2 / 3 / 2;
