@@ -269,7 +269,7 @@
         align-items: center;
         position: fixed;
         top: 0;
-        margin-left: 0px;
+        margin-left: -20px;
         padding-right: 20px;
         z-index:10;
     }
