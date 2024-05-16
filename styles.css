@@ -2524,8 +2524,7 @@
         background: linear-gradient(
             60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
         )var(--x, 0)/ 200%;
-        width: 15%;
-        min-width: 200px;
+        width: 40%;
         padding-top: 15px;
         height: 60px;
         margin: 0 0 20px 10%;
