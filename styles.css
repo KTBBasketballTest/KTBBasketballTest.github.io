@@ -2459,7 +2459,7 @@
         width: 50%;
         padding-top: 15px;
         height: 60px;
-        margin: 70px auto 0 auto;
+        margin: 70px 0 0 20vw;
         text-align: center;
         border: 2px solid var(--color-2);
         color: var(--color-2);
@@ -2494,7 +2494,7 @@
         width: 50%;
         padding-top: 15px;
         height: 60px;
-        margin: 70px auto 0 auto;
+        margin: 70px 0 0 20vw;
         text-align: center;
         border: 2px solid var(--color-2);
         color: var(--color-2);
