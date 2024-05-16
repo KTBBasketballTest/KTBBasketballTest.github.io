@@ -261,7 +261,7 @@
     }
     
     header {
-        width: 100vw;
+        width: calc(100% + 20px);
         height: 106px;
         background-color: #DDF1F4;
         display: flex;
