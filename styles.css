@@ -259,11 +259,6 @@
     .header-breit {
         display: none;
     }
-
-    .kontakt-header {
-        width: 80vw;
-        background-color: red;
-    }
     
     header {
         width: calc(100% + 20px);
@@ -277,6 +272,11 @@
         margin-left: -20px;
         padding-right: 20px;
         z-index:10;
+    }
+
+    .kontakt-header {
+        width: 80vw;
+        background-color: red;
     }
         
     header h2 a {
