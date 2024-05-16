@@ -1828,6 +1828,12 @@
         box-shadow: 10px 10px 5px var(--color-5);
     }
 
+    .home-section-4 > a > img {
+        width: 100px;
+        margin-left: calc(-105px + 50vw);
+        margin-top: 20px;
+    }
+
 }
 
 @media only screen and (min-width: 800px) {
@@ -1917,6 +1923,12 @@
         box-shadow: 10px 10px 5px var(--color-5);
     }
 
+    .home-section-4 > a > img {
+        width: 100px;
+        margin-left: calc(-145px + 50vw);
+        margin-top: 20px;
+    }
+
 }
 
 .home-section-2 {
@@ -1964,12 +1976,6 @@
     text-align: center;
     line-height: 30px;
     font-size: 1.2rem;
-}
-
-.home-section-4 > a > img {
-    width: 100px;
-    margin-left: calc(-145px + 50vw);
-    margin-top: 20px;
 }
 
 .home-section-5 > a > div {
