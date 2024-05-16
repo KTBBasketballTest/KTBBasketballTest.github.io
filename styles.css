@@ -252,7 +252,7 @@
         font-family: Helvetica;
         margin: 0;
         padding: 0;
-        width: 100%;
+        width: 100vw;
         overflow-x: hidden;
     }
 
@@ -272,11 +272,6 @@
         margin-left: -20px;
         padding-right: 20px;
         z-index:10;
-    }
-
-    .kontakt-header {
-        width: 80vw;
-        background-color: red;
     }
         
     header h2 a {
