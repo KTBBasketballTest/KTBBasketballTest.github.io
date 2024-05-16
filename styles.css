@@ -1828,7 +1828,7 @@
         box-shadow: 10px 10px 5px var(--color-5);
     }
 
-    .home-section-4 > a > img {
+    .kanal-logo {
         width: 100px;
         margin-left: calc(-275px + 50vw);
         margin-top: 20px;
@@ -2463,7 +2463,7 @@
         display: block;
     }
 
-    .verein-section-3a:target > div > a > img {
+    .verein-section-3a:target > div > a > .kg-bilder {
         border: 2px solid var(--color-2);
         height: 350px;
         grid-area: 1 / 2 / 3 / 2;
