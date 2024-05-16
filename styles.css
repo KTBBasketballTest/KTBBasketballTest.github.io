@@ -2433,13 +2433,7 @@
         --x: 100%; 
     }
 
-    .verein-section-3a:target > div > img {
-        border: 2px solid var(--color-2);
-        height: 350px;
-        grid-area: 1 / 2 / 3 / 2;
-        margin-top: 23px;
-        margin-right: 23px;
-    }
+    
 
     .verein-section-3a:target > .verein-anschreiber > img {
         margin-left: 5vw;
