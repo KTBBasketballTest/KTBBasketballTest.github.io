@@ -1747,7 +1747,7 @@
 
 /*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME *//*HOME */
 
-@media only screen and (max-width: 599px) {
+@media only screen and (max-width: 799px) {
 
     .home-section-1 {
         height: calc(100vh - 70px);
@@ -1830,7 +1830,7 @@
 
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 800px) {
 
     .home-section-1 {
         height: 47vw;
