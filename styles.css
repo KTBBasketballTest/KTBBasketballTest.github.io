@@ -2712,8 +2712,12 @@
 
     .home-section-4 > a > img {
         width: 100px;
-        margin-left: 100px;
         margin-top: 20px;
+    }
+
+    .home-section-4 div > a > img {
+        margin-left: 0;
+        border: 2px solid red;
     }
 
 }
