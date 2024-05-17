@@ -2710,12 +2710,12 @@
         font-size: 1.2rem;
     }
 
-    .home-section-4 > a > img {
+    .home-section-4 > div > a > img {
         width: 100px;
         margin-top: 20px;
     }
 
-    .home-section-4 div > a > img {
+    .home-section-4 > div{
         margin-left: 0;
         border: 2px solid red;
     }
