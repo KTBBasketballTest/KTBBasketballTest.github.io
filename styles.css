@@ -2712,7 +2712,7 @@
 
     .home-section-4 > a > img {
         width: 100px;
-        margin-left: calc(-175px + 50vw);
+        margin-left: 0;
         margin-top: 20px;
     }
 
