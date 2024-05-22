@@ -261,7 +261,7 @@
     }
     
     header {
-        width: calc(100% + 20px);
+        width: calc(100vw + 20px);
         height: 106px;
         background-color: #DDF1F4;
         display: flex;
@@ -275,7 +275,7 @@
     }
 
     .kontakt-header {
-        width: calc(100% + 20px);
+        width: calc(100vw + 20px);
         height: 106px;
         background-color: #DDF1F4;
         display: flex;
