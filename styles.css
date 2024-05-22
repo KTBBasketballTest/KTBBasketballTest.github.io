@@ -2378,7 +2378,7 @@
     .verein-section-3a:target > div {
         border: 2px solid var(--color-2);
         width: 50vw;
-        min-width: 500px;
+        min-width: 600px;
         height: 400px;
         margin: 30px;
         display: grid;
@@ -2413,12 +2413,13 @@
     .verein-section-3a:target > div > p{
         font-size: 1rem;
         grid-area: 2 / 1 / 2 / 1;
-        margin: -400px 10% 10px 10%;
+        margin: -300px 10% 10px 10%;
         text-align: justify;
         overflow-y: scroll;
+        height: 200px;
     }
 
-    .verein-section-3a:target > div > a > div{
+    .verein-section-3a:target > div > a > div {
         background: linear-gradient(
             60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
         )var(--x, 0)/ 200%;
@@ -2426,14 +2427,13 @@
         min-width: 200px;
         padding-top: 15px;
         height: 60px;
-        margin: 0 0 20px 10%;
+        margin: -65px 0 20px calc(-100px - 40%);
         text-align: center;
         border: 2px solid var(--color-2);
         color: var(--color-2);
         font-size: 1.3rem;
         transition: 0.5s;
         box-shadow: 10px 10px 5px var(--color-5);
-        grid-area: 2 / 1 / 2 / 1;
     }
 
     .verein-section-3a:target > div > a > div:hover {
@@ -2469,6 +2469,7 @@
         height: 350px;
         grid-area: 1 / 2 / 3 / 2;
         margin-top: 23px;
+        margin-left: calc(-50px + 10vw);
         margin-right: 23px;
     }
 
