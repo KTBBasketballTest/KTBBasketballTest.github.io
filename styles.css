@@ -1298,8 +1298,7 @@
         height: 70px;
         padding-left: 20px;
         padding-top: 20px;
-        font-size: 4vw;
-        font-size: max(1.3rem);
+        font-size: 1rem;
     }
 
     .news-dropdown {
