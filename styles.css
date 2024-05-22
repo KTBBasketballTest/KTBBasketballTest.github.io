@@ -1828,12 +1828,6 @@
         box-shadow: 10px 10px 5px var(--color-5);
     }
 
-    .kanal-logo {
-        width: 100px;
-        margin-left: calc(-275px + 50vw);
-        margin-top: 20px;
-    }
-
 }
 
 @media only screen and (min-width: 800px) {
