@@ -2413,7 +2413,7 @@
     .verein-section-3a:target > div > p{
         font-size: 1rem;
         grid-area: 2 / 1 / 2 / 1;
-        margin: -300px 10% 10px 10%;
+        margin: -400px 10% 10px 10%;
         text-align: justify;
         overflow-y: scroll;
     }
@@ -2433,6 +2433,7 @@
         font-size: 1.3rem;
         transition: 0.5s;
         box-shadow: 10px 10px 5px var(--color-5);
+        grid-area: 2 / 1 / 2 / 1;
     }
 
     .verein-section-3a:target > div > a > div:hover {
