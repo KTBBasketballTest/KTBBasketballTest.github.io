@@ -2697,6 +2697,10 @@
 
 /*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*//*KONTAKT*/
 
+.footer-kontakt {
+    margin-top: -200px;
+}
+
 @media only screen and (min-width: 800px) {
 
     .schmal {
