@@ -1923,12 +1923,6 @@
         box-shadow: 10px 10px 5px var(--color-5);
     }
 
-    .home-section-4 > a > img {
-        width: 100px;
-        margin-left: calc(-145px + 50vw);
-        margin-top: 20px;
-    }
-
 }
 
 .home-section-2 {
@@ -1976,6 +1970,15 @@
     text-align: center;
     line-height: 30px;
     font-size: 1.2rem;
+}
+
+.home-section-4 > div > a > img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.home-section-4 > div {
+    text-align: center;
 }
 
 .home-section-5 > a > div {
@@ -2694,28 +2697,6 @@
 
     #verein-section-3a:target ~ .verein-verstecken  {
         display: block;
-    }
-
-    .home-section-4 {
-        display: inline-block;
-        background-color: var(--color-4);
-        width: 100%;
-        padding: 100px;
-        border-bottom: 2px solid var(--color-2);
-    }
-
-    .home-section-4 > p {
-        width: 70%;
-        margin: 0 auto;
-        text-align: center;
-        line-height: 30px;
-        font-size: 1.2rem;
-    }
-
-    .home-section-4 > a > img {
-        width: 100px;
-        margin-top: 20px;
-        margin-left: 20vw;
     }
 
 }
