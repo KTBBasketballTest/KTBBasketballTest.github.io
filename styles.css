@@ -2413,7 +2413,7 @@
     .verein-section-3a:target > div > p{
         font-size: 1rem;
         grid-area: 2 / 1 / 2 / 1;
-        margin: -200px 10% 10px 10%;
+        margin: -300px 10% 10px 10%;
         text-align: justify;
         overflow-y: scroll;
     }
