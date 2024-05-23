@@ -6,6 +6,33 @@
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm) {
     
+    @media only screen and (max-width: 1000px) and (min-width: 756px) {
+        .camps-events-nav-item {
+            padding-top: 12px;
+            display: block;
+            height: 55px;
+            text-align: center;
+            margin-top: 0px;
+            font-weight: bold;
+            color: #67798D;
+            transition: color 0.2s linear;
+        }
+    }
+
+    @media only screen and (min-width: 1001px) {
+
+        .camps-events-nav-item {
+            padding-top: 20px;
+            display: block;
+            height: 55px;
+            text-align: center;
+            margin-top: 0px;
+            font-weight: bold;
+            color: #67798D;
+            transition: color 0.2s linear;
+        }
+    }
+
     @media only screen and (min-width: 800px) {
 
         html {
@@ -207,33 +234,6 @@
                 #FBB912 83.333%, #FBB912 91.666%,
                 #424294 91.666%, #424294 100%
             );
-        }
-    }
-
-    @media only screen and (max-width: 1000px) and (min-width: 756px) {
-        .camps-events-nav-item {
-            padding-top: 12px;
-            display: block;
-            height: 55px;
-            text-align: center;
-            margin-top: 0px;
-            font-weight: bold;
-            color: #67798D;
-            transition: color 0.2s linear;
-        }
-    }
-
-    @media only screen and (min-width: 1001px) {
-
-        .camps-events-nav-item {
-            padding-top: 20px;
-            display: block;
-            height: 55px;
-            text-align: center;
-            margin-top: 0px;
-            font-weight: bold;
-            color: #67798D;
-            transition: color 0.2s linear;
         }
     }
 
@@ -3440,6 +3440,32 @@
 /** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox *//** Mozilla Firefox */
 @-moz-document url-prefix() {
 
+    @media only screen and (max-width: 1342px) and (min-width: 756px) {
+        .camps-events-nav-item {
+            padding-top: 12px;
+            display: block;
+            height: 55px;
+            text-align: center;
+            margin-top: 0px;
+            font-weight: bold;
+            color: #67798D;
+            transition: color 0.2s linear;
+        }
+    }
+
+    @media only screen and (min-width: 1343px) {
+
+        .camps-events-nav-item {
+            padding-top: 20px;
+            display: block;
+            height: 55px;
+            text-align: center;
+            margin-top: 0px;
+            font-weight: bold;
+            color: #67798D;
+            transition: color 0.2s linear;
+        }
+    }
 
     @media only screen and (min-width: 800px) {
 
@@ -3642,33 +3668,6 @@
                 #FBB912 83.333%, #FBB912 91.666%,
                 #424294 91.666%, #424294 100%
             );
-        }
-    }
-
-    @media only screen and (max-width: 1342px) and (min-width: 756px) {
-        .camps-events-nav-item {
-            padding-top: 12px;
-            display: block;
-            height: 55px;
-            text-align: center;
-            margin-top: 0px;
-            font-weight: bold;
-            color: #67798D;
-            transition: color 0.2s linear;
-        }
-    }
-
-    @media only screen and (min-width: 1343px) {
-
-        .camps-events-nav-item {
-            padding-top: 20px;
-            display: block;
-            height: 55px;
-            text-align: center;
-            margin-top: 0px;
-            font-weight: bold;
-            color: #67798D;
-            transition: color 0.2s linear;
         }
     }
 
