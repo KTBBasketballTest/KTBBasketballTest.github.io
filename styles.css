@@ -3383,7 +3383,7 @@
 
     @media only screen and (max-width: 507px) {
         .kontakt-linie-3 {
-            width: calc(10px + 60vw); 
+            width: calc(20px + 60vw); 
             height: 20vw;  
             border: solid 2px #000;
             border-color: #000 transparent transparent transparent;
@@ -3403,7 +3403,7 @@
             transform: rotate(-173deg);
             position: relative;
             top: calc(50px + -87vw);
-            right: calc(-20px - 20.4vw);
+            right: calc(-30px - 20.4vw);
         }
     }
 
