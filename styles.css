@@ -3382,7 +3382,7 @@
 
     @media only screen and (max-width: 507px) {
         .kontakt-linie-3 {
-            width: calc(-40px + 70vw); 
+            width: calc(10px + 60vw); 
             height: 20vw;  
             border: solid 2px #000;
             border-color: #000 transparent transparent transparent;
@@ -3394,7 +3394,7 @@
         }
 
         .kontakt-linie-4 {
-            width: calc(-25px + 70vw); 
+            width: calc(25px + 60vw); 
             height: 20vw;  
             border: solid 2px #000;
             border-color: #000 transparent transparent transparent;
