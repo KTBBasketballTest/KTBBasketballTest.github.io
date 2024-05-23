@@ -210,7 +210,7 @@
         }
     }
 
-    @media only screen and (max-width: 1332px) and (min-width: 756px) {
+    @media only screen and (max-width: 1302px) and (min-width: 756px) {
         .camps-events-nav-item {
             padding-top: 12px;
             display: block;
@@ -223,7 +223,7 @@
         }
     }
 
-    @media only screen and (min-width: 1333px) {
+    @media only screen and (min-width: 1303px) {
 
         .camps-events-nav-item {
             padding-top: 20px;
