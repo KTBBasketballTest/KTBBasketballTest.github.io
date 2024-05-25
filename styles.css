@@ -9728,7 +9728,7 @@
 
         .kontakt-section-2b > .breit-h1 {
             position: relative;
-            top: calc(-92vw - 50px);
+            top: calc(-102vw - 50px);
             left: 27vw;
             grid-area: 1 / 1 / 1 / 1;
 
@@ -9736,92 +9736,92 @@
 
         .kontakt-section-2b > .breit-h2 {
             position: relative;
-            top: calc(-106vw - 50px);
+            top: calc(-80vw - 50px);
             left: 27vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-h3 {
             position: relative;
-            top: calc(-95vw - 50px);
+            top: calc(-75vw - 50px);
             left: 22vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-d1 {
             position: relative;
-            top: calc(-110vw - 50px);
+            top: calc(-85vw - 50px);
             left: 50vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-d2 {
             position: relative;
-            top: calc(-103vw - 50px);
+            top: calc(-80vw - 50px);
             left: 50vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-d3 {
             position: relative;
-            top: calc(-90vw - 50px);
+            top: calc(-69vw - 50px);
             left: 55vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u18m {
             position: relative;
-            top: calc(-83vw - 50px);
+            top: calc(-64vw - 50px);
             left: 11vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u16m {
             position: relative;
-            top: calc(-78vw - 50px);
+            top: calc(-60vw - 50px);
             left: 23vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u14m {
             position: relative;
-            top: calc(-69vw - 50px);
+            top: calc(-49vw - 50px);
             left: 15vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u12 {
             position: relative;
-            top: calc(-61vw - 50px);
+            top: calc(-35vw - 50px);
             left: 23vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u10 {
             position: relative;
-            top: calc(-58vw - 50px);
+            top: calc(-33vw - 50px);
             left: 40vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u18w {
             position: relative;
-            top: calc(-78vw - 50px);
-            left: 43vw;
+            top: calc(-58vw - 50px);
+            left: 45vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u16w {
             position: relative;
-            top: calc(-73vw - 50px);
+            top: calc(-53vw - 50px);
             left: 60vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u14w {
             position: relative;
-            top: calc(-66vw - 50px);
-            left: 41vw;
+            top: calc(-46vw - 50px);
+            left: 44vw;
             grid-area: 1 / 1 / 1 / 1;
         }
         
