@@ -7843,7 +7843,7 @@
             height: 60px;
             margin-left: calc(-110px + 10vw);
             margin-right: 20px;
-            margin-top: -80px;
+            margin-top: 80px;
             text-align: center;
             border: 2px solid var(--color-2);
             color: var(--color-2);
