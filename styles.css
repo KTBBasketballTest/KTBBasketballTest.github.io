@@ -9736,7 +9736,7 @@
 
         .kontakt-section-2b > .breit-h2 {
             position: relative;
-            top: calc(-80vw - 50px);
+            top: calc(-85vw - 50px);
             left: 27vw;
             grid-area: 1 / 1 / 1 / 1;
         }
@@ -9750,7 +9750,7 @@
 
         .kontakt-section-2b > .breit-d1 {
             position: relative;
-            top: calc(-85vw - 50px);
+            top: calc(-89vw - 50px);
             left: 50vw;
             grid-area: 1 / 1 / 1 / 1;
         }
