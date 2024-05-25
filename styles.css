@@ -9736,14 +9736,14 @@
 
         .kontakt-section-2b > .breit-h2 {
             position: relative;
-            top: calc(-92vw - 50px);
+            top: calc(-94vw - 50px);
             left: 27vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-h3 {
             position: relative;
-            top: calc(-81vw - 50px);
+            top: calc(-82vw - 50px);
             left: 22vw;
             grid-area: 1 / 1 / 1 / 1;
         }
@@ -9757,7 +9757,7 @@
 
         .kontakt-section-2b > .breit-d2 {
             position: relative;
-            top: calc(-89vw - 50px);
+            top: calc(-90vw - 50px);
             left: 50vw;
             grid-area: 1 / 1 / 1 / 1;
         }
@@ -9792,14 +9792,14 @@
 
         .kontakt-section-2b > .breit-u12 {
             position: relative;
-            top: calc(-47vw - 50px);
+            top: calc(-50vw - 50px);
             left: 23vw;
             grid-area: 1 / 1 / 1 / 1;
         }
 
         .kontakt-section-2b > .breit-u10 {
             position: relative;
-            top: calc(-45vw - 50px);
+            top: calc(-47vw - 50px);
             left: 40vw;
             grid-area: 1 / 1 / 1 / 1;
         }
