@@ -7834,16 +7834,17 @@
         }
 
         .teams-section-2a > a > div {
-            background: linear-gradient(
+            /*background: linear-gradient(
                 60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
-            )var(--x, 0)/ 200%;
+            )var(--x, 0)/ 200%;*/
+            background-color: red;
             width: 70%;
             min-width: 190px;
             padding-top: 15px;
             height: 60px;
             margin-left: calc(-110px + 10vw);
             margin-right: 20px;
-            margin-top: 80px;
+            margin-top: 100px;
             text-align: center;
             border: 2px solid var(--color-2);
             color: var(--color-2);
