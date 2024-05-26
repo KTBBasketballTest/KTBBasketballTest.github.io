@@ -642,6 +642,7 @@
         .teams-table {
             width: 80vw;
             max-width: 350px;
+            overflow-x: auto;
         }
 
         .teams-table, th, td {
@@ -4076,6 +4077,7 @@
         .teams-table {
             width: 80vw;
             max-width: 350px;
+            overflow-x: auto;
         }
 
         .teams-table, th, td {
@@ -7479,6 +7481,7 @@
         .teams-table {
             width: 80vw;
             max-width: 350px;
+            overflow-x: auto;
         }
 
         .teams-table, th, td {
