@@ -3053,6 +3053,36 @@
             background-color: var(--color-3);
         }
 
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -3352,6 +3382,36 @@
             overflow-wrap: break-word;
             resize: vertical;
             background-color: var(--color-3);
+        }
+
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
         }
 
     }
@@ -6488,6 +6548,36 @@
             background-color: var(--color-3);
         }
 
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -6811,6 +6901,35 @@
             overflow-wrap: break-word;
             resize: vertical;
             background-color: var(--color-3);
+        }
+
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
         }
 
     }
@@ -9892,6 +10011,36 @@
             background-color: var(--color-3);
         }
 
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -10215,6 +10364,36 @@
             overflow-wrap: break-word;
             resize: vertical;
             background-color: var(--color-3);
+        }
+
+        .kontakt-section-3 > div {
+            background-color: var(--color-3);
+            border: 2px solid black;
+            height: fit-content;
+            width: 70vw;
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 20px;
+            transition: 0.2s;
+        }
+
+        .kontakt-section-3 > div:hover {
+            background-color: var(--color-5);
+        }
+
+        .kontakt-amt-heading {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding-bottom: 5px;
+        }
+
+        .kontakt-amt-email {
+            color: var(--color-2);
+            transition: color 0.2s;
+        }
+
+        .kontakt-amt-email:hover {
+            color: var(--color-1);
         }
 
     }
