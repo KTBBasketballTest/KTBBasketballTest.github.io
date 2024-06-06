@@ -1166,6 +1166,40 @@
             background-color: var(--color-3);
         }
 
+        .hallen-erlaubnis {
+            width: 40%;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -1204,6 +1238,42 @@
 
         .hallen-grau {
             background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis {
+            width: 80vw;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            margin-top: 20px;
+            margin-left: calc(10vw - 20px);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
         }
 
     }
@@ -3546,7 +3616,7 @@
         body {
             background: var(--color-4);
             color: var(--color-2);
-            font-family: Helvetica;
+            /*font-family: Helvetica;*/
             margin: 0;
             padding: 0;
             width: 100%;
@@ -3750,7 +3820,7 @@
         body {
             background: var(--color-4);
             color: var(--color-2);
-            font-family: Helvetica;
+            /*font-family: Helvetica;*/
             margin: 0;
             padding: 0;
             width: 100vw;
@@ -3980,7 +4050,7 @@
 
     *  {
         font-size: 16px;
-        font-family: Arial, sans-serif;
+        /*font-family: Arial, sans-serif;*/
         box-sizing: border-box;
         padding: 0;
         margin: 0;
@@ -4661,6 +4731,40 @@
             background-color: var(--color-3);
         }
 
+        .hallen-erlaubnis {
+            width: 40%;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -4699,6 +4803,42 @@
 
         .hallen-grau {
             background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis {
+            width: 80vw;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            margin-top: 20px;
+            margin-left: calc(10vw - 20px);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
         }
 
     }
@@ -8124,6 +8264,40 @@
             background-color: var(--color-3);
         }
 
+        .hallen-erlaubnis {
+            width: 40%;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
+        }
+
     }
 
     @media only screen and (max-width: 799px) {
@@ -8162,6 +8336,42 @@
 
         .hallen-grau {
             background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis {
+            width: 80vw;
+            height: 60vh;
+            border: 2px solid var(--color-2);
+            box-shadow: 10px 10px 5px var(--color-3);
+            margin-top: 20px;
+            margin-left: calc(10vw - 20px);
+            background-color: var(--color-3);
+        }
+
+        .hallen-erlaubnis > p {
+            padding: 100px 20px 0 20px;
+            text-align: center;
+        }
+
+        .hallen-erlaubnis > a > div {
+            background: linear-gradient(
+                60deg, var(--color-1), #9FD9E1 20%, var(--color-1)
+            )var(--x, 0)/ 200%;
+            width: 20%;
+            min-width: 250px;
+            padding-top: 15px;
+            height: 60px;
+            margin: 70px auto 0 auto;
+            text-align: center;
+            border: 2px solid var(--color-2);
+            color: var(--color-2);
+            font-size: 1.3rem;
+            transition: 0.5s;
+            box-shadow: 10px 10px 5px var(--color-5);
+        }
+    
+        .hallen-erlaubnis > a > div:hover {
+            --x: 100%; 
         }
 
     }
